@@ -1,3 +1,6 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/> <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
+
 # Tensorflow/ Keras Model Profiler
 
 Gives you some basic but important information about your `tf` or `keras` model like,
@@ -10,7 +13,7 @@ Gives you some basic but important information about your `tf` or `keras` model 
 ## Dependencies
 
 ```
-python 3
+python >= 3.6
 numpy 
 tabulate
 tensorflow >= 2.0.0
@@ -20,6 +23,7 @@ Built and tested on `tensorflow == 2.3.1`
 
 ## Installation 
 
+using pip.
 ```
 pip install model_profiler
 ```
@@ -43,6 +47,8 @@ from profiler import model_profiler
 
 Batch_size = 128
 profile = model_profiler(model, Batch_size)
+
+print(profile)
 ```
 `Batch_size` have effect on `model` memory usage so GPU memory usage need `batch_size`, it's default value if `1`.
 
