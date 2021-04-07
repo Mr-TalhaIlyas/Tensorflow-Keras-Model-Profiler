@@ -10,6 +10,7 @@ Gives you some basic but important information about your `tf` or `keras` model 
 * Memory required to store parameters `model weights`.
 * GPU availability and GPU IDs if available
 
+
 ## Dependencies
 
 ```
@@ -25,9 +26,9 @@ Built and tested on `tensorflow == 2.3.1`
 
 using pip.
 ```
-pip install model_profiler
+pip install model-profiler
 ```
-
+or latest version from [PyPI project site](https://pypi.org/project/model-profiler/)
 ## Usage
 
 Firs load any model built using keras or tensorflow. Here for simplicity we will load model from kera applications.
