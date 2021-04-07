@@ -43,7 +43,7 @@ model = VGG16(include_top=True, weights="imagenet", input_tensor=None,
 Now after installing `model_profiler` run
 
 ```python
-from profiler import model_profiler
+from model_profiler import model_profiler
 
 Batch_size = 128
 profile = model_profiler(model, Batch_size)
