@@ -1,5 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-<img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/> <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> [![Downloads](https://pepy.tech/badge/model-profiler)](https://pepy.tech/project/model-profiler) [![Generic badge](https://img.shields.io/badge/Version-1.1.7-<COLOR>.svg)](https://shields.io/)
+<img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/> <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> [![Downloads](https://pepy.tech/badge/model-profiler)](https://pepy.tech/project/model-profiler) [![Generic badge](https://img.shields.io/badge/Version-1.1.8-<COLOR>.svg)](https://shields.io/)
 
 # Tensorflow/ Keras Model Profiler
 
