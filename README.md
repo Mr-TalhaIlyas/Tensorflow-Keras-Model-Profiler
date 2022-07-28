@@ -9,8 +9,12 @@ Gives you some basic but important information about your `tf` or `keras` model 
 * Model memory requirement on GPU
 * Memory required to store parameters `model weights`.
 * GPU availability and GPU IDs if available
-
 #### Version 1.1.7 fixes problems with custom sequential models and includes other minor improvements.
+
+#### [Learning-Rate-Schedulers-Packege-Tensorflow-PyTorch-Keras](https://github.com/Mr-TalhaIlyas/Learning-Rate-Schedulers-Packege-Tensorflow-PyTorch-Keras)
+#### [Loss-Functions-Package-Tensorflow-Keras-PyTorch](https://github.com/Mr-TalhaIlyas/Loss-Functions-Package-Tensorflow-Keras-PyTorch)
+
+
 
 ## Dependencies
 
