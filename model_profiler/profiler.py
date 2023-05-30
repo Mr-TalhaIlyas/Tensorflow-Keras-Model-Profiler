@@ -69,7 +69,7 @@ def model_profiler(model, Batch_size, profile=Profile, use_units=units, verbose=
     
     full_profile = np.concatenate((
                                 np.asarray(Profile).reshape(-1,1),
-                                np.asarray(values).reshape(-1,1),
+                                np.asarray(values, dtype="object").reshape(-1,1),
                                 np.asarray(use_units).reshape(-1,1)
                                 )
                             , 1)
